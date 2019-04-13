@@ -1,0 +1,9 @@
+name: InvKit
+version: 1.0
+main: de.kit.main.Main
+
+
+commands:
+   invkit:
+      description: Virtuelles Inventar!
+      usage: 
